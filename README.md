@@ -1,4 +1,4 @@
-# DS3500
+# Bubble Chart
 
 ## Description:
 Created a bubble chart as part of a Friends tv show episode analysis dashboard. This bubble chart is part of a collaborative group project 
